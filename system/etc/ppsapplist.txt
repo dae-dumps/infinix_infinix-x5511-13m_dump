@@ -1,0 +1,229 @@
+nl.dotsightsoftware.pacificfighter.release nl.dotsightsoftware.core.SplashActivity 60 60 50 50
+nl.dotsightsoftware.pacificfighter.release nl.dotsightsoftware.pacf.FlightActivity 50 50 50 52
+nl.dotsightsoftware.pacificfighter.release 50 50 60 60
+com.UCMobile .main.UCMobile 55 55 60 50
+com.UCMobile 52 52 52 52
+com.tencent.mtt .SplashActivity 55 55 50 50
+com.tencent.mtt 55 55 55 55
+com.tencent.mm  .plugin.webview.ui.tools.WebViewUI  55 48 55 52
+com.tencent.mm  .plugin.sns.ui.SnsTimeLineUI  55 48 55  52
+com.tencent.mm  .ui.chatting.ChattingUI 55 55 55 52
+com.tencent.mm .ui.conversation.BizConversationUI 55 48 55 55
+com.tencent.mm .ui.LauncherUI 55 48 55 55
+com.tencent.mm  56 56 55 50
+com.happyelements.AndroidAnimal 50 55 50 50
+com.sina.weibo .SplashActivity 60 60 60 60
+com.sina.weibo .MainTabActivity 55 55 55 55
+com.sina.weibo .page.PageActivity 55 55 55 50
+com.sina.weibo .page.NewCardListActivity 55 52 55 50
+com.sina.weibo .page.ProfileInfoActivity 55 52 55 50
+com.sina.weibo .page.SearchResultActivity 55 52 55 50
+com.sina.weibo  55 55 52 50
+com.tencent.news .activity.SplashActivity 60 60 60 60
+com.tencent.news .ui.MainActivity2 56 55 60 52
+com.tencent.news .ui.NewsDetailActivity 56 55 60 52
+com.tencent.news  52 52 52 52
+com.taobao.taobao com.taobao.tao.homepage.MainActivity3 56 55 60 52
+com.taobao.taobao com.taobao.tao.welcome.Welcome 60 60 60 60
+com.taobao.taobao com.taobao.browser.BrowserActivity 56  55  60  52
+com.taobao.taobao com.taobao.search.searchdoor.SearchDoorActivity 56  40  60  52
+com.taobao.taobao com.taobao.search.auctionsearch.SearchListActivity 56  55  60  52
+com.taobao.taobao com.taobao.tao.detail.activity.DetailActivity 56  55  60  52
+com.taobao.taobao 52 52 52 52
+com.tencent.mobileqq cooperation.qzone.QzoneFeedsPluginProxyActivity 56 55 60 52
+com.tencent.mobileqq com.tencent.biz.pubaccount.PublicAccountBrowser 55 48 55 52
+com.tencent.mobileqq .activity.SplashActivity 55 48 55 55
+com.tencent.mobileqq 55 55 50 50
+com.baidu.tieba .LogoActivity 60 60 60 60
+com.baidu.tieba .tblauncher.MainTabActivity 56 55 50 50
+com.baidu.tieba .mainentrance.SquareSearchActivity 60 55 60 60
+com.baidu.tieba 54 50 55 55
+com.ss.android.article.news com.ss.android.sdk.activity.SplashAdActivity 60 60 60 60
+com.ss.android.article.news .activity.MainActivity 56 55 60 52
+com.ss.android.article.news com.ss.android.article.base.feature.detail.activity.DetailActivity 56 55 60 52
+com.ss.android.article.news 56  55  60  52
+com.netease.newsreader.activity com.netease.nr.biz.ad.AdActivity 60 60 60 60
+com.netease.newsreader.activity com.netease.nr.phone.main.MainActivity 56 55 60 52
+com.netease.newsreader.activity com.netease.nr.base.activity.BaseActivity 56 52 60 52
+com.netease.newsreader.activity com.netease.nr.biz.news.detailpage.NewsPageActivity 56 52 60 52
+com.netease.newsreader.activity 56  55  60  52
+com.jingdong.app.mall .MainActivity 60 60 60 60
+com.jingdong.app.mall .MainFrameActivity 56 55 60 52
+com.jingdong.app.mall .WebActivity 56 55 60 52
+com.jingdong.app.mall .searchRefactor.view.Activity.SearchActivity 56 40 60 52
+com.jingdong.app.mall .searchRefactor.view.Activity.ProductListActivity 56 52 60 52
+com.jingdong.app.mall .product.ProductDetailActivity 56 52 60 52
+com.jingdong.app.mall 56 55 60 52
+com.sohu.newsclient .app.SplashActivity 60 60 60 60
+com.sohu.newsclient .app.NewsTabActivity 56 52 60 52
+com.sohu.newsclient 56 55 60 52
+com.ifeng.news2 .activity.SplashActivity 60 60 50 50
+com.ifeng.news2 .activity.IfengTabMainActivity 56 55 50 52
+com.ifeng.news2 .activity.DetailActivity 56 55 50 52
+com.ifeng.news2 56 55 60 52
+com.myzaker.ZAKER_Phone .view.LogoActivity 55 52 60 60
+com.myzaker.ZAKER_Phone .view.boxview.BoxViewActivity 56 52 60 52
+com.myzaker.ZAKER_Phone .view.article.ArticleListFragmentActivity 56 52 60 52
+com.myzaker.ZAKER_Phone 56 55 50 52
+com.sina.news .ui.PowerOnScreen 60 60 60 52
+com.sina.news .ui.MainActivity 56 55 60 52
+com.sina.news .ui.NewsContentActivity 56 55 50 52
+com.sina.news 56 55 60 52
+com.qiyi.video 56 52 60 52
+com.tencent.qqlive 56 52 60 52
+com.youku.phone 56 52 60 52
+com.sohu.sohuvideo 56 52 60 52
+com.letv.android.client 56 52 60 52
+com.qqgame.hlddz 56 55 60 52
+com.kiloo.subwaysurf 54 54 60 54
+com.achievo.vipshop .activity.LodingActivity 60 60 60 60
+com.achievo.vipshop .newactivity.MainActivity 56 55 60 52
+com.achievo.vipshop .newactivity.ClassifyActivity 56 55 60 52
+com.achievo.vipshop .newactivity.NewProductListActivity 56 52 60 52
+com.achievo.vipshop .newactivity.NewProductDetailActivity 56 52 60 52
+com.achievo.vipshop 56 55 60 52
+com.tmall.wireless .splash.TMSplashActivity 55 55 40 40
+com.tmall.wireless .maintab.module.TMMainTabActivity 56 55 60 52
+com.tmall.wireless .module.search.xbiz.input.activity.TMSearchInputActivity 56 55 60 52
+com.tmall.wireless .module.search.searchResult.TMSearchResultActivity 56 52 60 52
+com.tmall.wireless .detail.ui.TMItemDetailsActivity 56 52 60 52
+com.tmall.wireless 55 52 60 56
+com.kugou.android 56 55 55 52
+com.tencent.qqmusic 56 55 60 52
+com.tencent.clover 55 55 60 60
+org.cocos2dx.Fish 50 50 60 60
+org.cocos2dx.FishGame  50 50 38 38
+com.imangi.templerun2 55 55 55 55
+com.vectorunit.redcmgeplaycn 55 55 55 55
+com.happyelements.AndroidAnimal 55 55 55 55
+com.mas.wawagame.BDDKlord 50 50 42 42
+com.tencent.game.SSGame 50 50 43 43
+com.qqgame.hlddz 55 55 55 55
+com.tencent.pao 50 50 50 45
+com.tencent.qq 56 56 50 50
+com.viber.voip 50 50 48 48
+com.twitter.android  50 50 49 49
+mobile.lab.PhoneCallDetect 52 52 48 48
+com.truecaller 52 52 48 48
+com.qq.wpc 55 55 55 55  
+com.instagram.android 52 52 48 48 
+jp.naver.line.android 52 52 48 48
+com.skype.rover 50 50 48 48
+com.afmobi.palmchat 52 52 48 48
+com.snapchat.android 52 52 48 48
+com.boatmob.floating.touch 52 55 48 48
+com.parfield.prayers.lite 52 55 48 48
+com.ezjoynetwork.marbleblast 50 50 48 48
+com.android.incallui .InCallActivity 55 48 55 55
+com.android.incallui 55 55 55 55
+com.android.contacts .activities.PeopleActivity 55 48 55 55
+com.android.contacts 55 50 55 55
+com.android.mms .reallytek.MmsActivity 55 55 55 55
+com.android.mms .ui.ComposeMessageActivity 55 55 55 55
+com.android.mms 56 56 55 50
+com.android.browser .BrowserActivity 55 48 55 55
+com.android.browser 55 55 55 55
+com.rovio.angrybirdsrio 55 50 55 55
+com.google.android.gms 55 48 55 55
+com.google.android.googlequicksearchbox 52 48 52 52 
+com.android.gallery3d .app.GalleryActivity 55 50 55 55
+com.android.gallery3d 55 55 55 55 
+com.cyin.himgr .MainActivity 55 52 60 55
+com.cyin.himgr .clean.CleanActivity 55 55 60 55
+com.cyin.himgr 55 55 60 55
+com.mediatek.videoplayer .MovieListActivity 55 55 50 55
+com.mediatek.videoplayer 55 48 55 55
+com.mediatek.FMRadio 55 48 55 55
+com.rlk.powersavemanagement 55 48 55 55
+com.mediatek.filemanager .FileManagerSearchActivity 55 54 55 50
+com.mediatek.filemanager 52 54 55 60
+com.reallytek.gallery 55 54 55 55
+com.infinix.xui_theme .com.android.xtheme.activity.XThemeSettingActivity 52 50 50 50
+com.infinix.xui_theme .LocalThemeManager 55 55 50 50
+com.infinix.xui_theme 55 55 55 60
+com.mephone.fonts .activity.UseFontsActivity 55 55 40 40
+com.mephone.fonts 52 50 55 55
+com.android.email .activity.setup.AccountSetupFinal 55 55 40 40
+com.android.email 55 52 55 55
+com.android.settings 55 54 55 55
+com.whatsapp .HomeActivity 55 52 60 55
+com.whatsapp .SetStatus 55 52 60 55
+com.whatsapp .Main 52 52 55 55
+com.whatsapp .EULA 52 52 55 55
+com.whatsapp  55 55 52 49
+com.facebook.katana .activity.FbMainTabActivity 55 52 55 55
+com.facebook.katana com.facebook.composer.activity.ComposerActivity 55 52 52 52
+com.facebook.katana com.facebook.growth.friendfinder.FriendFinderHostingActivity 55 55 55 55
+com.facebook.katana 55 55 52 52
+com.bbm .ui.activities.MainActivity  55 55 55 55
+com.bbm .ui.activities.StoreHomeActivity 55 55 55 55
+com.bbm  55 55 49 49
+com.transsnet.chat 55 55 50 50
+cn.xender .ui.activity.SplashActivity 55 52 55 55
+cn.xender .ui.activity.MainActivity 55 52 55 55
+cn.xender 55 55 55 55
+cn.wps.moffice_eng cn.wps.moffice.main.local.home.HomeActivity 52 52 52 52
+cn.wps.moffice_eng cn.wps.moffice.main.open.phone.OpenActivity 55 55 52 52
+cn.wps.moffice_eng cn.wps.moffice.main.local.filebrowser.AllDocumentActivity 55 52 60 60
+cn.wps.moffice_eng 52 52 52 52
+com.uc.browser.en com.uc.browser.ActivityBrowser 52 52 60 55
+com.uc.browser.en 52 52 52 52
+com.hzay.market com.afmobi.palmplay.StartActivity 60 60 60 50
+com.hzay.market com.afmobi.palmplay.LandingPageActivity 52 52 60 50
+com.hzay.market com.afmobi.palmplay.main.MainActivity 55 55 60 50
+com.hzay.market 52 52 50 52
+com.afmobi.carlcare .MainActivity 55 55 52 52
+com.afmobi.carlcare .LoginActivity 52 52 52 52
+com.afmobi.carlcare 52 52 52 52
+com.android.calendar .AllInOneActivity 55 55 52 52
+com.android.calendar .event.EditEventActivity 52 52 52 52
+com.android.calendar 52 52 52 52
+com.android.deskclock .DeskClock 55 55 55 55
+com.android.deskclock .alarms.EditAlarm 52 54 52 52
+com.android.deskclock .worldclock.CitiesActivity 55 54 50 50
+com.android.deskclock 55 55 55 55
+com.mediatek.notebook .NoteEdit 52 60 52 52
+com.mediatek.notebook .NoteReading 52 52 60 60
+com.mediatek.notebook 52 52 52 52
+com.android.soundrecorder .SoundRecorder 52 52 50 52
+com.android.soundrecorder 52 52 52 52
+com.reallytek.weather .WeatherMainActivity 52 52 50 40
+com.reallytek.weather 52 52 50 50
+com.mediatek.systemupdate .UpdateActivity 52 52 55 55
+com.mediatek.systemupdate 52 52 52 52
+com.mediatek.datatransfer .MainActivity 55 55 50 50
+com.mediatek.datatransfer .PersonalDataBackupActivity 55 55 55 55
+com.mediatek.datatransfer .AppBackupActivity 55 55 55 55
+com.mediatek.datatransfer 52 52 52 52
+com.gameloft.android.GloftDBMF 52 52 48 48
+com.gameloft.android.GloftAGMP .Start 60 60 50 50
+com.gameloft.android.GloftAGMP .MainActivity 55 55 55 55
+com.gameloft.android.GloftAGMP 52 52 48 48
+com.android.quicksearchbox .SearchActivity 55 55 50 40
+com.android.quicksearchbox 60 60 60 60
+com.droi.chuanyin .guidepage.SplashActivity 60 60 52 50
+com.droi.chuanyin .main.MainActivity 52 52 55 50
+com.droi.chuanyin 55 55 50 50
+com.android.chrome com:com.google.android.apps.chrome.Main 55 52 55 50
+com.android.chrome 55 55 50 50
+com.google.android.ConversationListActivityGmail 55 52 55 55
+com.google.android.gm 52 52 52 52
+com.google.android.apps.maps com.google.android.maps.MapsActivity 52 55 55 50
+com.google.android.apps.maps 52 52 52 52
+com.google.android.youtube .app.honeycomb.Shell$HomeActivity 52 55 55 50
+com.google.android.youtube 52 52 52 52
+com.google.android.apps.docs .app.NewMainProxyActivity 52 55 55 50
+com.google.android.apps.docs 52 52 52 52
+com.google.android.music com.android.music.activitymanagement.TopLevelActivity 52 55 55 50
+com.google.android.music 52 52 52 52
+com.google.android.talk .SigningInActivity 52 48 55 55
+com.google.android.talk 52 52 48 48
+com.google.android.apps.photos .home.HomeActivity 48 52 52 52
+com.google.android.apps.photos 52 48 52 52
+com.intsig.BizCardReader com.intsig.camcard.main.activitys.MainActivity 52 55 55 50
+com.intsig.BizCardReader 54 55 52 52
+com.intsig.camscanner .MainMenuActivity 52 48 55 55
+com.intsig.camscanner 54 54 52 52
+com.trustlook.antivirus.pro com.trustlook.antivirus.ui.screen.ActivityLevel1 55 52 50 50
+com.trustlook.antivirus.pro 52 50 52 50
+com.transsion.phoenix 55 55 50 50

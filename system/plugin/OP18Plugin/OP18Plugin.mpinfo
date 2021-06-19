@@ -1,0 +1,6 @@
+com.mediatek.settings.ext.IWfcSettingsExt | com.mediatek.op18.plugin | com.mediatek.settings.plugin.OP18WfcSettingsExt | OP18Plugin.apk
+com.mediatek.phone.ext.ICallFeaturesSettingExt | com.mediatek.op18.plugin | com.mediatek.phone.plugin.OP18CallFeaturesSettingExt | OP18Plugin.apk
+com.mediatek.ims.ext.IImsNotificationControllerExt | com.mediatek.op18.plugin | com.mediatek.ims.plugin.ImsNotificationControllerExtOP18 | OP18Plugin.apk
+com.mediatek.settings.ext.ISimManagementExt | com.mediatek.op18.plugin | com.mediatek.settings.plugin.Op18SimManagementExt | OP18Plugin.apk
+com.mediatek.phone.ext.IMobileNetworkSettingsExt | com.mediatek.op18.plugin | com.mediatek.phone.plugin.OP18MobileNetworkSettingsExt | OP18Plugin.apk
+com.mediatek.providers.settings.ext.IDatabaseHelperExt | com.mediatek.op18.plugin | com.mediatek.settingsprovider.plugin.Op18DatabaseHelperExt | OP18Plugin.apk
